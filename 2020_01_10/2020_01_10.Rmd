@@ -2,7 +2,7 @@
 title: "Quick Riddler Fun"
 author: "Seth Caldwell"
 date: "10/01/2020"
-output: rmarkdown::html_document
+output: github_document
 ---
 From Leonard Cohen comes a puzzle at the intersection of language and mathematics:
 
